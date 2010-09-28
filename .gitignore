@@ -4,4 +4,6 @@ target/*
 .project
 .classpath
 log.roo
+.idea
+*.iml
 

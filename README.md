@@ -1,7 +1,7 @@
 Roo Wicket Addon
 =======================
 
-An addon to Spring Roo that generates a Wicket-based view layer
+An Spring Roo addon that generates a Wicket-based view layer
 
 Building
 --------
