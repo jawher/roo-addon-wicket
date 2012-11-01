@@ -3,6 +3,16 @@ Roo Wicket Addon
 
 An Spring Roo addon that generates a Wicket-based view layer
 
+# Important notice
+
+This project is **abandonned**.
+I was playing with Roo and thought it would be a good idea to implement Wicket views generation.
+I've moved on to other things since then, and stopped working on this project.
+I might even delete this repo on day.
+Sorry for the inconvenience.
+
+
+
 Building
 --------
 
